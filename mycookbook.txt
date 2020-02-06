@@ -2,3 +2,9 @@ cook book recipie list
 	rice
 	bake
 	rotis
+	veg
+		south
+		north
+	non veg
+		chicken
+		mutton
